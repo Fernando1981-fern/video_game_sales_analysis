@@ -1,2 +1,2 @@
-# Working with Data in Python
-First Python  Project
+# Video Game Project
+I analyzed video game sales data to identify which factors are linked to a game’s success. Using data cleaning and exploratory analysis, I compared sales across platforms, genres, regions, and time, and looked at how ratings and reviews relate to performance. The goal was to spot patterns that help predict potential big winners and support planning for advertising campaigns.
